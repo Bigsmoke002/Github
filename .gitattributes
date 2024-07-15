@@ -1,26 +1,24 @@
 #VRChat
-api.vrchat.cloud^
-vrchat.com^
-www.vrchat.com^
-config.vrchat.com^
-vrchat.net^
-*.vrchat.net^
-vrchat.cloud^
-*.vrchat.cloud^
-api.vrchat.net^
-files.vrchat.net^
-api.vrchat.com^
-websocket.vrchat.com^
-cdn.vrchat.com^
-download.vrchat.com^
-asset.vrchat.com^
-vrcdn.vrchat.com^
-www.vrchat.net^
-vrchat-prod.s3.amazonaws.com^
-*.amazonaws.com^
-*.akamaihd.net^
-*.steamcontent.com^
-*.steampowered.com^
+api.vrchat.cloud
+vrchat.com
+www.vrchat.com
+config.vrchat.com
+vrchat.net
+*.vrchat.net
+vrchat.cloud
+*.vrchat.cloud
+api.vrchat.net
+files.vrchat.net
+api.vrchat.com
+websocket.vrchat.com
+cdn.vrchat.com
+download.vrchat.com
+asset.vrchat.com
+vrcdn.vrchat.com
+www.vrchat.net
+vrchat-prod.s3.amazonaws.com
+*.amazonaws.com
+*.akamaihd.net
 api.amplitude.com
 api2.amplitude.com
 cdn.amplitude.com
@@ -41,7 +39,7 @@ gamelogs.live.bhvrdbd.com
 rtm.live.dbd.bhvronline.com
 #Genshin Impact
 log-upload-os.mihoyo.com
-#Redshell 
+#Redshell
 api.gameanalytics.com
 files.facepunch.com
 in.treasuredata.com
@@ -55,17 +53,15 @@ insights-collector.gog.com
 gwent-bi-collector.gog.com
 #Google
 stats.g.doubleclick.net
-#Steam
-crash.steampowered.com
 #Solarwinds
 logs-01.loggly.com
 #Vermintide
 5fs-crashify.s3-accelerate.amazonaws.com
 #China Analytics
 crashlogs.woniu.com
-# Microsoft
+#Microsoft
 vortex.data.microsoft.com
-# Wenga
+#Wenga
 api.amplitude.com
 api2.amplitude.com
 cdn.amplitude.com
@@ -97,7 +93,6 @@ galaxy-client-reports.gog.com
 insights-collector.gog.com
 gwent-bi-collector.gog.com
 stats.g.doubleclick.net
-crash.steampowered.com
 logs-01.loggly.com
 5fs-crashify.s3-accelerate.amazonaws.com
 crashlogs.woniu.com
