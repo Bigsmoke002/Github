@@ -17,11 +17,10 @@ asset.vrchat.com
 vrcdn.vrchat.com
 www.vrchat.net
 vrchat-prod.s3.amazonaws.com
-*.amazonaws.com
-*.akamaihd.net
 api.amplitude.com
 api2.amplitude.com
 cdn.amplitude.com
+
 #Unity
 api.uca.cloud.unity3d.com
 config.uca.cloud.unity3d.com
@@ -34,33 +33,44 @@ remote-config-proxy-prd.uca.cloud.unity3d.com
 thind-gke-euw.prd.data.corp.unity3d.com
 thind-gke-usc.prd.data.corp.unity3d.com
 thind-gke-ape.prd.data.corp.unity3d.com
+
 #DBD
 gamelogs.live.bhvrdbd.com
 rtm.live.dbd.bhvronline.com
+
 #Genshin Impact
 log-upload-os.mihoyo.com
+
 #Redshell
 api.gameanalytics.com
 files.facepunch.com
 in.treasuredata.com
 api.redshell.io
 rubick.gameanalytics.com
+
 #Just Cause
 nelo2-col.nhncorp.jp
+
 #GoG Galaxy
 galaxy-client-reports.gog.com
 insights-collector.gog.com
 gwent-bi-collector.gog.com
+
 #Google
 stats.g.doubleclick.net
+
 #Solarwinds
 logs-01.loggly.com
+
 #Vermintide
 5fs-crashify.s3-accelerate.amazonaws.com
+
 #China Analytics
 crashlogs.woniu.com
+
 #Microsoft
 vortex.data.microsoft.com
+
 #Wenga
 api.amplitude.com
 api2.amplitude.com
@@ -105,6 +115,7 @@ commerce.rec.net
 notify.bugsnag.com
 ipgeolocation.abstractapi.com
 api.ipify.org
+
 #VRC Fumiko
 pastebin.com
 pastebin.com/raw/FVZUy0XG
